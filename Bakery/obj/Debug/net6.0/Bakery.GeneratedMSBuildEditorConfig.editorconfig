@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bakery
 build_property.RootNamespace = Bakery
-build_property.ProjectDir = C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Bakery\
+build_property.ProjectDir = c:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Bakery\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Bakery
+build_property.MSBuildProjectDirectory = c:\Users\hpars\OneDrive\Desktop\WebDev2\AppDevII\Bakery
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/About.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Error.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Index.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Order.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/OrderSuccess.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/OrderSuccess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Privacy.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/_ViewImports.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/_ViewStart.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Shared/_Layout.cshtml]
+[c:/Users/hpars/OneDrive/Desktop/WebDev2/AppDevII/Bakery/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ff4n8zp81y
